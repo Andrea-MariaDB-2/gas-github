@@ -4,10 +4,10 @@
   "description": "Chrome-extension to manage Google Apps Script(GAS) code with github/github enterprise.",
   "main": "src/gas-hub.js",
   "dependencies": {
-    "eslint": "^4.0.0"
+    "eslint": "^7.0.0"
   },
   "devDependencies": {
-    "eslint": "^4.0.0"
+    "eslint": "^7.0.0"
   },
   "scripts": {
     "test": "./node_modules/.bin/eslint ."
